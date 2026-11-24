@@ -1,0 +1,28 @@
+P1: Project Folder and Terminal Navigation
+
+1. pwd
+   Displays the current working directory.
+
+2. ls
+   Lists files and folders.
+
+3. mkdir P01-project-folder
+   Creates a new project folder.
+
+4. cd P01-project-folder
+   Navigates into the project folder.
+
+5. mkdir css screenshots
+   Creates subdirectories.
+
+6. touch index.html README.md commands.txt
+   Creates new files.
+
+7. ls -R
+   Displays the complete directory structure.
+
+8. cd ..
+   Moves one directory back.
+
+9. cd ~
+   Navigates to the home directory.

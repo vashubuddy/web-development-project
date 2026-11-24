@@ -1,0 +1,26 @@
+# P1: Project Folder and Terminal Navigation
+
+## Aim
+To learn how to create project folders and navigate through directories using Terminal.
+
+## Tools Used
+- macOS Terminal
+- Git
+- GitHub
+
+## Commands Practiced
+1. pwd - Displays current working directory.
+2. ls - Lists files and folders.
+3. mkdir - Creates a new directory.
+4. cd - Changes the current directory.
+5. cd .. - Moves to the parent directory.
+6. clear - Clears the terminal screen.
+
+## Project Structure
+P01-project-folder/
+- code/
+- screenshots/
+- README.md
+
+## Learning Outcome
+Learned basic terminal navigation and project folder management.
